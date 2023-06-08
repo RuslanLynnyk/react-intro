@@ -1,0 +1,29 @@
+.app{
+    min-height: 100vh;
+}
+
+.content{
+    height: 90vh;
+}
+
+.header {
+    padding: 20px 30px;
+    background-color: #ccc;
+}
+
+.footer{
+    padding: 20px;
+    background-color: black;
+    color: #ccc;
+}
+
+.content{
+    display: flex;
+    align-items: flex-start;
+}
+
+.aside{
+    width: 300px;
+    background-color: #ccc;
+    height: 100%;
+}
